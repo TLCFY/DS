@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Resource">
+        <file alias="Edge">Resource/Edge.txt</file>
+        <file alias="newCam_ori">Resource/newCam_2.jpg</file>
+        <file alias="newCam_Line">Resource/newCam_Lined.png</file>
+        <file alias="newCam_Marked">Resource/newCam_Marked.png</file>
+        <file alias="Vex">Resource/VEX.txt</file>
+        <file alias="BuildsName">Resource/BuildsName.txt</file>
+        <file alias="icon">Resource/icon.png</file>
+        <file alias="bike">Resource/bike.png</file>
+    </qresource>
+</RCC>
